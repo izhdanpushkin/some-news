@@ -1,0 +1,90 @@
+.container {
+    color: #333;
+}
+
+h1 {
+    font-size: 36px;
+}
+p {
+    margin: 0 0 21px 0;
+    padding: 0;
+}
+.top-picture p {
+    background-color: #ddd;
+    color: #666;
+    padding-left: 5px;
+    padding: 10px 8px 10px 8px;
+    font-size: 13px;
+}
+.top-row {
+    color: #666;
+}
+.story-container {
+    padding: 0;
+    margin: 0 62px 0 62px;
+    width: auto;
+}
+.social-logos {
+    display: inline-block;
+    margin-right: 17px;
+}
+.social-logos a {
+    display: block;
+    text-decoration: none;
+    color: #666;
+    background-color: #eee;
+    padding: 7px;
+    border-radius: 3px;
+    border: 1px solid #dcdcdc;
+}
+.social-logos svg {
+    width: 24px;
+    height: 24px;
+    fill: currentColor;
+    vertical-align: middle;
+}
+.video-container p {
+    font-size: 13px;
+    background-color: #eee;
+    color: #aaa;
+    padding: 10px 8px 10px 8px;
+}
+.video-container strong {
+    color: #333;
+}
+
+.side-story {
+    padding: 0 0 10px 0;
+    /*margin: 0 0 10px 0;*/
+    width: 100%;
+}
+.side-story .col-md-6 {
+    padding-right: 0;
+}
+.side-story h4 {
+    font-size: 16px;
+    margin-top: 0;
+    padding: 6px 8px 6px 8px;
+}
+.side-story a{
+    font-size: 14px;
+    color: #333;
+    text-decoration: none;
+    margin-top: 0;
+}
+.side-story a:hover svg {
+    background: #fff;
+    color: #3157a1;}
+
+.social-logos a:hover {
+    background: #fff;
+}
+.twitter a:hover svg {
+    fill: #00aced;
+}
+.facebook a:hover svg {
+    fill: #3b5998;
+}
+.googleplus a:hover svg {
+    fill: #dd4b39;
+}
